@@ -1,0 +1,21 @@
+schema = 3
+
+[mod]
+  [mod."github.com/golang/snappy"]
+    version = "v0.0.3"
+    hash = "sha256-77y8JFRE3FcYd8CTypXnJlTJuog1pJg5WjhboFjTiLU="
+  [mod."github.com/klauspost/cpuid/v2"]
+    version = "v2.0.9"
+    hash = "sha256-0rHlHzEVaDdkVbRJDhnAJjfJUmAHOYjXN5u7VoCi5uk="
+  [mod."github.com/minio/sha256-simd"]
+    version = "v1.0.0"
+    hash = "sha256-oEo/BoMqSLdwSjrhHTiFjl5Om4MVLNQXDJINk6Z110Y="
+  [mod."github.com/mitchellh/mapstructure"]
+    version = "v1.3.2"
+    hash = "sha256-a3VCX/ed00RmToDKycs5pwxkISXIr/w/ZsiN6mP4f8w="
+  [mod."github.com/prysmaticlabs/gohashtree"]
+    version = "v0.0.1-alpha.0.20220714111606-acbb2962fb48"
+    hash = "sha256-nCKdf03RwvJC6tEWdDAq5cpI4Tz/BZ/hHAaPSdmjXFE="
+  [mod."gopkg.in/yaml.v2"]
+    version = "v2.3.0"
+    hash = "sha256-8tPC5nMGvUFs97W6+JXsxJLjU6EpDmPG9tXo1DyFoNU="
